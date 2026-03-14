@@ -1,4 +1,4 @@
-# Collective Geometric Computation
+# Collective Geometric Computation - CGC
 ## A First-Principles Theory of Artifact-Mediated Decision Inference in Sequential Human Systems
 
 > A shared physical artifact, modified sequentially by uncoordinated agents,
